@@ -1,0 +1,19 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient id="gradient-fill" x1="0" y1="0" x2="1" y2="0">
+   <stop offset="0" stop-color="#f55b14"/>
+   <stop offset="0.125" stop-color="#f7601b"/>
+   <stop offset="0.25" stop-color="#f86522"/>
+   <stop offset="0.375" stop-color="#f96b29"/>
+   <stop offset="0.5" stop-color="#fb7030"/>
+   <stop offset="0.625" stop-color="#fc7537"/>
+   <stop offset="0.75" stop-color="#fd7a3e"/>
+   <stop offset="0.875" stop-color="#fe8046"/>
+   <stop offset="1" stop-color="#ff854d"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m-0.37924,-21l400,0l0,200l-400,0l0,-200z" opacity="undefined" stroke="null" fill="url(#gradient-fill)"/>
+ </g>
+</svg>
