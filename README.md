@@ -1,54 +1,69 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Portifolio
 
-## 🚀 Quick start
+![Project Version][version-image]
+![Frontend][Frontend-image]
+![Backend][Backend-image]
 
-1.  **Create a Gatsby site.**
+> Simple website to aggregate information about my skills and projects.
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+---
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Author
 
-2.  **Start developing.**
+**Arthur Oliveira**
 
-    Navigate into your new site’s directory and start it up.
+* *Initial work* - [portifolio][repository-url] (Repository space)
+* *Released on* [OCI][cloud-provider-url] (Cloud provider)
+* *My professional profile on* [LinkedIn][linkedin-url]
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Roadmap
 
-3.  **Open the code and start customizing!**
+The project is still in development and the next updates will focus on the following:
 
-    Your site is now running at http://localhost:8000!
+- [X] Language Selector
+- [ ] Dark Theme
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+## Development setup
 
-4.  **Learn more**
+To get it up and running you just need to run these commands and it'll be on 8000 port.
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+```sh
+yarn
+gatsby develop
+```
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Built With
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+* [Yarn](https://yarnpkg.com/)
+* [Gatsby](https://www.gatsbyjs.com/)
+* [TailwindCSS](https://tailwindcss.com/)
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Release History
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+* 1.0.0
+    * First release
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+---
 
-## 🚀 Quick start (Gatsby Cloud)
+## 📝 License
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+Distributed under license. See [LICENÇA](LICENSE.md) for more information.
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+<!-- Markdown link & img dfn's -->
+
+
+[header-link]: https://github.com/rhtua
+
+[repository-url]: https://github.com/rhtua/portifolio
+
+[cloud-provider-url]: https://www.oracle.com/br/cloud/
+
+[linkedin-url]: https://www.linkedin.com/in/rhtua
+
+
+[version-image]: https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge
+
+[Frontend-image]: https://img.shields.io/badge/Frontend-Gatsby-purple?style=for-the-badge
+
+[Backend-image]: https://img.shields.io/badge/Language-Javascript-important?style=for-the-badge

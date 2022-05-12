@@ -1,0 +1,15 @@
+{
+  "title": "Notado",
+  "description": "School management system to administrate grades and attendance, to be used by teachers and students. Internship project.",
+  "technologies": [
+    "Visual Studio",
+    "Entity",
+    ".Net",
+    "MVC"
+  ],
+  "img": "../../images/notado.png",
+  "extension": "png",
+  "absolutePath": "../../images/notado.png",
+  "github": "https://github.com/rhtua/Notado",
+  "figma": "#"
+}

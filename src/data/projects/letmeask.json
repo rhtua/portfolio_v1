@@ -1,0 +1,16 @@
+{
+  "title": "LetMeAsk",
+  "description": "A app to host a Q&A room to multiple purposes, integrated with Google Account. Next Level Week project made in a week.",
+  "technologies": [
+    "Firebase",
+    "Figma",
+    "Jest",
+    "SASS",
+    "ReactJS"
+  ],
+  "img": "../../images/letmeask.png",
+  "extension": "png",
+  "absolutePath": "../../images/letmeask.png",
+  "github": "https://github.com/rhtua/Let-Me-Ask",
+  "figma": "https://www.figma.com/file/OIYmTQkekcCKaUUQXfPK1L/Letmeask"
+}

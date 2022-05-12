@@ -1,0 +1,16 @@
+{
+  "title": "DevCRUD",
+  "description": "A developer record manager, using Clean Architecture principles, tests and a small UI project. Done in a week as a test.",
+  "technologies": [
+    "Webstorm",
+    "Figma",
+    "Docker",
+    "NodeJS",
+    "ReactJS"
+  ],
+  "img": "../../images/devcrud.png",
+  "extension": "png",
+  "absolutePath": "../../images/devcrud.png",
+  "github": "https://github.com/rhtua/DevCRUD",
+  "figma": "https://www.figma.com/file/6YFqx5xv9ftVflrMam1JcZ/DevCRUD"
+}

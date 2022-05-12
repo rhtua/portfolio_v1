@@ -1,6 +1,35 @@
-body{
+body {
     font-family: "League Spartan", sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 }
+
+.button-hover {
+    color: #f55d14;
+    background-size: 210% 100%;
+    border-image-source: linear-gradient(90deg, #f97316, #f59e0b);
+    border-image-slice: 1;
+    transition: all 1s ease-out;
+
+    & span {
+        color: #f55d14;
+        transition: all .2s ease-out;
+    }
+}
+
+.button-hover:hover {
+    & div {
+        width: 100%;
+    }
+
+    & span {
+        color: white;
+    }
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
