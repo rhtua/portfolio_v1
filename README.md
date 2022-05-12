@@ -4,7 +4,7 @@
 ![Frontend][Frontend-image]
 ![Backend][Backend-image]
 
-> Simple website to aggregate information about my skills and projects.
+> Simple website to aggregate information about my skills and projects. Available at rhtua.com.br
 
 ---
 
