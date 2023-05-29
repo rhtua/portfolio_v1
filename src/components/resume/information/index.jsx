@@ -50,18 +50,18 @@ const SkillsAndTools = () => {
         <div className="flex gap-4 flex-wrap md:flex-nowrap justify-center">
           <div className="flex w-36 h-36 select-none justify-center animateCircle items-center relative border-2 rounded-full p-2 border-purple-400 text-purple-300">
             <Circle />
-            <h3 className="text-md font-medium absolute text-black">C Sharp</h3>
+            <h3 className="text-xl font-medium absolute text-black">React</h3>
           </div>
           <div className="flex w-36 h-36 select-none justify-center animateCircle items-center relative border-2 rounded-full p-2 border-pink-400 text-pink-400">
             <Circle />
-            <h3 className="text-md font-medium absolute text-black">
-              HTML / CSS
+            <h3 className="text-xl font-medium absolute text-black">
+              Node
             </h3>
           </div>
           <div className="flex w-36 h-36 select-none justify-center animateCircle items-center relative border-2 rounded-full p-2 border-blue-400 text-blue-400">
             <Circle />
-            <h3 className="text-md font-medium absolute text-black">
-              Typescript
+            <h3 className="text-xl font-medium absolute text-black">
+              C Sharp
             </h3>
           </div>
         </div>
@@ -114,8 +114,9 @@ const Information = ({ data }) => {
 
       <SkillsAndTools />
 
-      <div className="flex flex-col px-8 gap-4">
+      <div className="flex flex-col px-8 gap-4 mt-4">
         <h3 className="text-sm font-medium">ABOUT</h3>
+      <div className="flex w-full h-[1px] bg-slate-300 mb-4 gap-4" />
         <h4 className="font-light">
           I am a creative, self-motivated developer who wants to see where this
           programming thing will take me. You’ll often see me contemplating what

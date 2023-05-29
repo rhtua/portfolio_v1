@@ -47,7 +47,7 @@ const Footer = () => {
   return (
     <footer className="footer footer-center justify-center flex p-10 bg-slate-900 text-gray-100">
       <div className="flex w-full flex-col-reverse lg:flex-row items-center justify-between text-center">
-        <p>© {year} - All right reserved</p>
+        <p>© {year} - All rights reserved</p>
         <a className="text-gray-100 text-2xl font-medium md:text-3xl select-none pt-1">
           arthur<span className="text-orange-500 text-2xl md:text-4xl">.</span>
         </a>
